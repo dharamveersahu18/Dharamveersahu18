@@ -33,8 +33,9 @@ A simple expense tracking app built using HTML, CSS & JavaScript.
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharamveersahu18&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharamveersahu18&layout=compact&theme=tokyonight" height="150"/>
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharamveersahu18&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharamveersahu18&layout=compact&theme=tokyonight)
+
 </p>
 
 
