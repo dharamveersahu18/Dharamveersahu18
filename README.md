@@ -42,8 +42,8 @@ A simple expense tracking app built using HTML, CSS & JavaScript.
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: (linkedin.com/in/dharamveer-sahu)
-- 📧 Email: (dharamveersahu18@gmial.com)
+- 💼 LinkedIn: www.linkedin.com/in/dharamveer-sahu
+- 📧 Email: (dharamveersahu18@gmail.com)
 
 ---
 
